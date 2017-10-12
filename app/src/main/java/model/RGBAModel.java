@@ -13,7 +13,7 @@ import android.graphics.Color;
  * RGB: integer values in the domain range of 0 to 255 (inclusive).
  * Alpha: integer value in the domain range of 0 to 255 (inclusive).
  *
- * @author Gerald.Hurdle@AlgonquinCollege.com
+ * @author tamk0002@AlgonquinCollege.com
  * @version 1.0
  */
 public class RGBAModel extends Observable {

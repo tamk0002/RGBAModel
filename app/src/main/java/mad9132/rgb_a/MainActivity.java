@@ -24,7 +24,7 @@ import model.RGBAModel;
  *
  * Features the Update / React Strategy.
  *
- * @author Gerald.Hurdle@AlgonquinCollege.com
+ * @author tamk0002@AlgonquinCollege.com
  * @version 1.0
  */
 public class MainActivity extends Activity implements Observer, SeekBar.OnSeekBarChangeListener {

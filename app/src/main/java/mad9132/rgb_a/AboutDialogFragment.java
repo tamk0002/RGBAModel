@@ -12,7 +12,7 @@ import android.os.Bundle;
  * Reference:
  * Android Dialogs @ http://developer.android.com/guide/topics/ui/dialogs.html
  *
- * @author Gerald.Hurdle@AlgonquinCollege.com
+ * @author tamk0002@AlgonquinCollege.com
  */
 
 public class AboutDialogFragment extends DialogFragment {
