@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/Christine/AndroidStudioProjects/RGBAModel/RGBA/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/Christine/Documents/CodeII/mad9132/github/RGBAModel/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/Christine/AndroidStudioProjects/RGBAModel/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e4c0f1f19285745dd7486fde8551541211cf6b40/classes.dex" />
+        <dex dex="/Users/Christine/Documents/CodeII/mad9132/github/RGBAModel/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0cd3568bcff9f2494543f8d8003d1fc2bf0d6a95/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Christine/AndroidStudioProjects/RGBAModel/RGBA/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/Christine/Documents/CodeII/mad9132/github/RGBAModel/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="8364d64b426cdd73a237539aa1b8d30b09c18772">
-        <dex dex="/Users/Christine/AndroidStudioProjects/RGBAModel/RGBA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_042234f4e34de6272859369c62a7c58e886e115f/classes.dex" />
+        sha1="346655c8de53bd175ab541c919d957e5b61b3667">
+        <dex dex="/Users/Christine/Documents/CodeII/mad9132/github/RGBAModel/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_48f716b17169a9e91d06a7a3df14df6c6999ef9d/classes.dex" />
     </item>
 
 </items>
